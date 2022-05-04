@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sktrbrn
+- 👋 Hi, I’m @sktrbrn, lithuanian from Rotterdam.
 - 👀 I’m interested in: design, coding, journalism, photography, politics.
-- 🌱 I’m currently learning: html and css also figma.
-- 💞️ I’m looking to collaborate on: web design.
+- 🌱 I’m currently learning: html and css, also Figma.
+- 💞️ I’m looking to collaborate on: web design, graphic design, web development, etc.
 - 📫 How to reach me: sktbrnn@gmail.com
 
 <!---
